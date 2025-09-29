@@ -12,7 +12,7 @@ public class Address
         _street = street;
         _city = city;
         _stateOrProvince = stateOrProvince;
-        _country = country;
+        _country = country; 
     }
 
     public bool IsInUSA()
